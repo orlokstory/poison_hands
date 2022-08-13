@@ -11,3 +11,6 @@ https://drive.google.com/file/d/1h9DuDeImshK4czMUz6nM95r17KDr-2c6/view?usp=shari
 2. Зайти в "играть_тут.exe"
 
 Все звуковые материалы взяты из свободных источников для некоммерческого использования.
+
+Макросы брал тут:
+https://github.com/hogart/sugar-cube-utils
