@@ -7,7 +7,7 @@
 
 Играть через сборку на node-webkit:
 1. Скачать архив по ссылке: 
-https://drive.google.com/file/d/1h9DuDeImshK4czMUz6nM95r17KDr-2c6/view?usp=sharing
+[Рука, подающая яд]: https://drive.google.com/file/d/1h9DuDeImshK4czMUz6nM95r17KDr-2c6/view?usp=sharing
 2. Зайти в "играть_тут.exe"
 
 Все звуковые материалы взяты из свободных источников для некоммерческого использования.
