@@ -6,9 +6,9 @@
 2. Зайти в "index.html"
 
 Играть через сборку на node-webkit:
-1. Скачать архив по ссылк:
-2. 
-[Рука, подающая яд]: https://drive.google.com/file/d/1h9DuDeImshK4czMUz6nM95r17KDr-2c6/view?usp=sharing
+1. Скачать архив по ссылке:
+
+https://drive.google.com/file/d/1h9DuDeImshK4czMUz6nM95r17KDr-2c6/view?usp=sharing
 
 2. Зайти в "играть_тут.exe"
 
